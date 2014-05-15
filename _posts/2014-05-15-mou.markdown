@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title:  "mou"
 date:   2014-05-15 22:30:42
-categories: Markdown
+categories: jekyll update
 ---
 # Mou
 
