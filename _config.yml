@@ -2,7 +2,7 @@
 title: wellsnake的平行世界
 email: 
 description: "一个用来记录各种技术、娱乐、生活、吐槽的平行世界"
-url: "http://wellsnake.com"
+baseurl: "http://wellsnake.com"
 username: wellsnake
 
 # Build settings
