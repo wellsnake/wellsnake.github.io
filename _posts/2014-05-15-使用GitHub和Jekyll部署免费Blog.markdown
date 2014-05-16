@@ -35,7 +35,7 @@ categories: jekyll update
 ## GitHub
 1.创建新的版本库，名称为username.github.io,其中**username**是你GitHub得账号名，然后会获得一个版本库地址。创建完后会获得一个git版本库的地址，先记下来后面有用。
 
-![prositiory](http://ww4.sinaimg.cn/large/7dc1089egw1egfas6fw53j20nm0dm75o.jpg)
+![prositiory](http://ww2.sinaimg.cn/large/7dc1089ejw9egftqx9gldj20id0d5gnd.jpg)
 
 ![prositioryurl](http://ww3.sinaimg.cn/large/7dc1089egw1egfas15skgj20kb046aak.jpg)
 
@@ -47,11 +47,11 @@ categories: jekyll update
 
 4.进入版本库内后选择**Settings**，将刚才在GitHub上创建的版本库地址填入**URL**内，这样就将本地版本库与GitHub上的版本库绑定了。
 
-![settingremout](http://ww2.sinaimg.cn/large/7dc1089egw1egfarznzfpj20wc0ivwil.jpg)
+![settingremout](http://ww2.sinaimg.cn/large/7dc1089ejw9egftmlgsxsj20i90ca76v.jpg)
 
 5.commit本地文件内容变更，最后点击**Push**将本地版本库更新到GitHub上，然后就是见证奇迹的时刻了。
 
-![commitandpull](http://ww2.sinaimg.cn/large/7dc1089egw1egfarznzfpj20wc0ivwil.jpg)
+![commitandpull](http://ww3.sinaimg.cn/large/7dc1089ejw9egftq6l61nj20m20k5n1d.jpg)
 
 6.使用 http://wellsnake.github.io 这个网址访问我们得网站吧！呵呵奇迹没有发生只有404页面，因为第一次提交后GitHub大约会在10分钟后才会有反应，那就去泡杯咖啡看看电视再回来吧。
 ![web404](http://ww1.sinaimg.cn/large/7dc1089egw1egfarnnh80j20ii0c1t99.jpg)
