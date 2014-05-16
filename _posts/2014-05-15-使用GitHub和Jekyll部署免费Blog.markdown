@@ -35,13 +35,14 @@ __git init__
 
 
 ## GitHub
-1.创建新的版本库，名称为username.github.io,其中__username__是你GitHub得账号名，然后会获得一个版本库地址。创建完后会获得一个Git版本库的地址，先记下来后面有用。
+1.创建新的版本库，名称为username.github.io,其中 __username__ 是你GitHub得账号名，然后会获得一个版本库地址。创建完后会获得一个Git版本库的地址，先记下来后面有用。
 
 ![create_new_repository](http://wellsnakeblog.qiniudn.com/2014051501create_new_repository.png)
 
 ![repository_url](http://wellsnakeblog.qiniudn.com/2014051501repository_url.png)
 
 2.对于Git不熟悉的朋友可以使用[SourceTree](http://www.sourcetreeapp.com/)这个免费又好用的Git管理工具来管理你的Git版本库，绝对是命令行苦手的福音啊。
+
 ![SourceTree](http://wellsnakeblog.qiniudn.com/2014051501SourceTree.png)
 
 3.在控制台内输入以下命令可以将刚才我们创建的blog文件加入并提交至Git版本库。
@@ -65,7 +66,7 @@ __git push -u origin master__
 ## 绑定域名
 其实到前面一步我们已经完成了整个Blog的部署了。除了使用默认地址来访问我们的网站外，我们还可以绑定域名。（这个功能实在是太棒了！）
 
-1.进入本地网站文件加后创建名为__CNAME__的文件，然后输入你的域名（下图中为wellsnake.com）然后保存即可。最后commit本地文件修改并上传到GitHub上即可。这里大家会发现为什么我在本地目录里有_site文件夹而上传到GitHub上却没有了呢，打开.gitignore（隐藏文件）文件后聪明的朋友应该明白怎么回事了吧。
+1.进入本地网站文件加后创建名为 __CNAME__ 的文件，然后输入你的域名（下图中为wellsnake.com）然后保存即可。最后commit本地文件修改并上传到GitHub上即可。这里大家会发现为什么我在本地目录里有_site文件夹而上传到GitHub上却没有了呢，打开.gitignore（隐藏文件）文件后聪明的朋友应该明白怎么回事了吧。
 
 ![edit_cname](http://wellsnakeblog.qiniudn.com/2014051501edit_cname.png)
 
