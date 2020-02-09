@@ -1,7 +1,7 @@
 ---
 title: "Jekyll使用篇 1 - 发布文章、加入评论功能、加入Google Analytics"
 date: 2014-05-24 20:40:42
-categories: jekyll update
+categories: jekyll
 tags: Jekyll GitHub
 key: A-2014-05-24-20-40-42
 author: wellsnake
