@@ -1,7 +1,7 @@
 ---
 title: "杀手级功能WorkFlows介绍(1)-Alfred使用手册2"
 date: 2014-08-16 23:45:42
-categories: jekyll update
+categories: alfred
 tags: Alfred Mac WorkFlow
 key: A-2014-08-16-23-45-42
 author: wellsnake

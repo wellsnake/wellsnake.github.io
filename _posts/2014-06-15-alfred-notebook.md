@@ -1,7 +1,7 @@
 ---
 title: "丢掉鼠标－Mac神软Alfred使用手册1"
 date: 2014-06-15 19:59:42
-categories: jekyll update
+categories: alfred
 tags: Alfred Mac
 key: A-2014-06-15-19-59-42
 author: wellsnake
