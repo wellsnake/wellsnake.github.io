@@ -2,6 +2,7 @@
 title:  "Jekyll部署篇-使用GitHub免费搭建Blog"
 date:   2014-05-15 23:30:42
 categories: jekyll
+tags: Jekyll GitHub
 key: A-2014-05-15-23-30-42
 author: wellsnake
 ---
