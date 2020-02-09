@@ -3,6 +3,7 @@ title: "Redmine 安装说明 ( CentOS + MySql + Ruby )"
 date: 2020-02-08 17:41:42
 categories: jekyll update
 tags: redmine centos ruby mysql
+sharing: true
 ---
 
 ## 安装环境说明
