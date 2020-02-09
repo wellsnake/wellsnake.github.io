@@ -21,7 +21,8 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : http://wellsnake.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : wellsnake的平行世界
-description: 一个用来记录各种技术、娱乐、生活、吐槽的平行世界
+description:  > # this means to ignore newlines until "Language & timezone"
+  一个用来记录各种技术、娱乐、生活、吐槽的平行世界
 
 
 ## => Language and Timezone
@@ -150,8 +151,8 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : 3zlgSwpiScfUWiOsY9HD3Cgg-MdYXbMMI # LeanCloud App id
-    app_key   : Nt3BkPBD9SQOF61okiBWfDh3 # LeanCloud App key
+    app_id    : GXoQKzlhjwPONHJIvmw3ifBs-gzGzoHsz # LeanCloud App id
+    app_key   : 4UBN4Ih8Seg5sB9kwzQdTSTE # LeanCloud App key
     app_class : pageview # LeanCloud App class
 
 
