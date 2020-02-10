@@ -37,7 +37,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : wellsnake
   url       : http://wellsnake.com
-  avatar    : https://avatars0.githubusercontent.com/u/365655?s=40&u=91ae5f6c1228e788738d08d709c2da7412cd51dc&v=4
+  avatar    : 
   bio       : 魔都｜射手男｜80后｜闷骚｜HIS开发｜Web设计｜Apple&Google fans｜眼镜娘控｜傲娇控｜收集控｜本格推理控｜对可爱的事物没有抵抗力｜生活在一个美丽与丑陋的国度
   email     :
   facebook  : wellsnake.well # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -223,5 +223,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-theme: jekyll-theme-cayman
